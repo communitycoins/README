@@ -22,8 +22,8 @@ Central repository of Core blockchain and environmental data
 ➡ https://ecoincoire.com
 
 ### 🔹 Core Wallets  
-Core-Wallet implementations forked from the original repositories and ported to be supported by the latest unix version
-➡ https://git.communitycoins.org/org/core-wallets
+Core-Wallet implementations forked from the original repositories and ported to be supported by the latest unix version  
+➡ https://git.communitycoins.org/org/core-wallets  
 
 ### 🔹 SPV / ROT Infrastructure  
 Indexers, Electrum servers, API layers, monitoring  
