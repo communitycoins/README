@@ -16,6 +16,11 @@ Main communitycoins/rooty website
 Rooty ecosystem documents, narrative & branding  
 ➡ https://git.communitycoins.org/org/rooty
 
+### 🔹 Communitycoins Core data
+Central repository of Core blockchain and environmental data  
+➡ https://git.communitycoins.org/org/ecoincore  
+➡ https://ecoincoire.com
+
 ### 🔹 Core Wallets  
 Core-Wallet implementations forked from the original repositories and ported to be supported by the latest unix version
 ➡ https://git.communitycoins.org/org/core-wallets
