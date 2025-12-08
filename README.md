@@ -8,13 +8,20 @@ This page provides a **single-entry overview** of all organisations, repositorie
 
 ## 🧭 Organisations (Main Areas)
 
+### 🔹 Rooty (Identity & Vision)  
+Rooty ecosystem documents, narrative & branding  
+➡ https://git.communitycoins.org/org/rooty
+
 ### 🔹 Core Wallets  
-Wallet implementations, Bitcoin-derived daemons, mobile wallets, and libraries  
+Core-Wallet implementations forked from the original repositories and ported to be supported by the latest unix version
 ➡ https://git.communitycoins.org/org/core-wallets
 
-### 🔹 SPV / Infrastructure  
+### 🔹 SPV / ROT Infrastructure  
 Indexers, Electrum servers, API layers, monitoring  
 ➡ https://git.communitycoins.org/org/spv-infra
+
+### 🔹 Light client / Communitycoins Multicoin Wallet
+PWA (Progressive Web App) 
 
 ### 🔹 Documentation & Governance  
 Manifestos, community docs, decentralisation frameworks  
@@ -27,10 +34,6 @@ EFL, DEM, EMARK, and other CommunityCoins
 ### 🔹 Web & Visuals  
 Website, graphic identity, announcements  
 ➡ https://git.communitycoins.org/org/web-visuals
-
-### 🔹 Rooty (Identity & Vision)  
-Rooty ecosystem documents, narrative & branding  
-➡ https://git.communitycoins.org/org/rooty
 
 ---
 
@@ -92,7 +95,7 @@ Project-specific tasks live in the organisation boards.
 
 ## ⚙️ Technical Infrastructure
 
-### Forgejo instance  
+### Forgejo instance and external mirrors (Gitlab / Github)
 `https://git.communitycoins.org` — self-hosted, decentralised
 
 ### CI (Forgejo Actions)  
