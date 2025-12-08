@@ -6,7 +6,7 @@ This page provides a **single-entry overview** of all organisations, repositorie
 
 ---
 
-## 🧭 Organisations (Main Areas)
+## 🧭 Main Areas (Organisations /org)
 
 ### 🔹 Rooty (Identity & Vision)  
 
