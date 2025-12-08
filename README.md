@@ -14,35 +14,35 @@ Main communitycoins/rooty website
 ➡ https://git.communitycoins.org
 
 Rooty ecosystem documents, narrative & branding  
-➡ https://git.communitycoins.org/org/rooty
+➡ https://git.communitycoins.org/rooty
 
 ### 🔹 Communitycoins Core data
 Central repository of Core blockchain and environmental data  
-➡ https://git.communitycoins.org/org/ecoincore  
+➡ https://git.communitycoins.org/ecoincore  
 ➡ https://ecoincoire.com
 
 ### 🔹 Core Wallets  
 Core-Wallet implementations forked from the original repositories and ported to be supported by the latest unix version  
-➡ https://git.communitycoins.org/org/core-wallets  
+➡ https://git.communitycoins.org/core-wallets  
 
 ### 🔹 SPV / ROT Infrastructure  
 Indexers, Electrum servers, API layers, monitoring  
-➡ https://git.communitycoins.org/org/spv-infra
+➡ https://git.communitycoins.org/spv-infra
 
 ### 🔹 Light client / Communitycoins Multicoin Wallet
 PWA (Progressive Web App) 
 
 ### 🔹 Documentation & Governance  
 Manifestos, community docs, decentralisation frameworks  
-➡ https://git.communitycoins.org/org/docs-governance
+➡ https://git.communitycoins.org/docs-governance
 
 ### 🔹 Coin-Specific Development  
 EFL, DEM, EMARK, and other CommunityCoins  
-➡ https://git.communitycoins.org/org/cc-coins
+➡ https://git.communitycoins.org/cc-coins
 
 ### 🔹 Web & Visuals  
 Website, graphic identity, announcements  
-➡ https://git.communitycoins.org/org/web-visuals
+➡ https://git.communitycoins.org/web-visuals
 
 ---
 
@@ -50,7 +50,7 @@ Website, graphic identity, announcements
 
 ### ⭐ **CommunityCoins Master Board**  
 High-level governance & roadmap across ALL organisations  
-➡ https://git.communitycoins.org/org/communitycoins/projects
+➡ https://git.communitycoins.org/communitycoins/projects
 
 ### 📍 Release Roadmap  
 Coordinates multi-repo release planning  
