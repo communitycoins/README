@@ -11,7 +11,7 @@ This page provides a **single-entry overview** of all organisations, repositorie
 ### 🔹 Rooty (Identity & Vision)  
 
 Main communitycoins/rooty website  
-➡ https://git.communitycoins.org
+➡ https://communitycoins.org
 
 Rooty ecosystem documents, narrative & branding  
 ➡ https://git.communitycoins.org/rooty
