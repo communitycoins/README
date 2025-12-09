@@ -2,6 +2,10 @@
 
 Welcome to **git.communitycoins.org**, the development hub for all CommunityCoins and Rooty software.
 
+CommunityCoins/Rooty is a Federated Initiative of community coin teams. That means that it is created and maintained by groups of friends that work together to make something amazing happen: We put the power of Bitcoin in the hands of everybody in their own country and region. For people that Bitcoin would otherwise never reach.
+
+Since the mission of every community coin is to serve a much larger community beyond the team and early adopters, we consider ourselves grassroots initiatives. For this reason, we’ve chosen the name ROOTY as a project identity—or rather, as a badge of honor.
+
 This page provides a **single-entry overview** of all organisations, repositories, project boards, and development areas.
 
 ---
