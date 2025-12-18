@@ -2,19 +2,11 @@
 
 This Communitycoins hub/library operates on Forgejo, an open source Gitea fork. It serves to maintain and collect multiple projects that are releated to Communitycoins. 
 
-The main structure in Gitea (Git Tea), just as with Gitlab and Github, is an `Organisation`. Normaly there is no organisation of `Organisations` except that only maintainers can add organisations. 
+The main structure in Gitea (Git Tea)/Forgejo, just as with Gitlab and Github, is an `Organisation`, which itself is not structured (it is just a list). The `Organisation` contains a non-structured set of `repositories` (again, just a list). A `repository` (short: repo) is a hierarchical set of `files`, usually to bundle a software project. 
 
-The main outline of the Communitycoins hub is described in 
+Normaly there is no organisation of `Organisations` except that only maintainers can add organisations. For this purpose we maintain a single `Organisation` named [Communitycoins](/Communitycoins). It contains one `repository` named [README](https://git.communitycoins.org/Communitycoins/README) to bundle directions for readers and those that want to contribute.
 
-has a project-asset that operates like a kanban board. All Communitycoin ideas can be structured here but first the idea must be wrapped as an issue. Issues are repo-specific. So they are also organisation (or user) specific. 
+Since a software project is never finished Forgejo serves to maintain project-`issues`, -`branches`, -`tags` and -`releases`. Before anything changes you need to tell us why. Your answer becomes an `issue`. Before you start to work on an `issue` or a set of issues you need to create a `branch`, which is a named copy of all the files in a `repository`.
 
-Although an issue can appear in multiple projects it cannot appear in multiple contexts:
-
-| Context | Answer |
-|------|----------|
-| One issue in multiple Projects? | ✅ |
-| One issue in multiple repos? | ✅ within the same organisation |
-| Over multiple organisations? | ❌ |
-| Projects can serve as global lens? | ❌ No, only per organisation |
-| Crosslinks possible? | ✅ with organisation as hard boundary |
+Forgejo also uses the name `project` which is confusing because a Forgejo-project is a set of issues. So you cannot define a forgeo-project when there are no issues. Issues can be ideas or hints, but also bugs
 
