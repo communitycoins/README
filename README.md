@@ -4,15 +4,19 @@ Welcome to **git.communitycoins.org**, the development hub for all CommunityCoin
 
 CommunityCoins/Rooty is a Federated Initiative of community coin teams. That means that it is created and maintained by groups of friends that work together to make something amazing happen: We put the power of Bitcoin in the hands of everybody in their own country and region. For people that Bitcoin would otherwise never reach.
 
-Since the mission of every community coin is to serve a much larger community beyond the team and early adopters, we consider ourselves grassroots initiatives. For this reason, we’ve chosen the name ROOTY as a project identity—or rather, as a badge of honor.
+This communitycoin hub/library operates on Forgejo, an open source Gitea fork. It serves to maintain and collect multiple projects that are releated to Communitycoins. Gitea itself has a specific organisation that should be uderstood for comfortable navigation. We explain it in [CONTRIBUTING](CONTRIBUTING.md). We encourage each team that considers itself as a Communitycoins team to contribute to this library but at least to mirror this hub/library as a means toward federation.
 
-This page provides a **single-entry overview** of all organisations, repositories, project boards, and development areas.
+> 👉 **A community coin is a true cryptocurrency, that has its own globally accessable blockchain but with a local bias, community and identity.**
+
+This page provides a **single-entry overview** of all organisations, repositories, project boards, and development areas related to Communitycoins.
 
 ---
 
 ## 🧭 Main Areas (Organisations /org)
 
 ### 🔹 Rooty (Identity & Vision)  
+
+Since the mission of every community coin is to serve a much larger community beyond the team and early adopters, we consider ourselves grassroots initiatives. For this reason, we’ve chosen the name ROOTY as a project identity—or rather, as a badge of honor for Communitycoins.
 
 Main communitycoins/rooty website  
 ➡ https://communitycoins.org
