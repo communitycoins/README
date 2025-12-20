@@ -10,3 +10,12 @@ Since a software project is never finished Forgejo serves to maintain project-`i
 
 Forgejo also uses the name `project` which is confusing because a Forgejo-project is not a repository but a set of issues. So you cannot define a forgeo-project when there are no issues. A Forgejo `project` is a management board to collect and manage issues within an `organisation`.
 
+## Continuity
+
+All repositories are standard Git repositories.
+Any team may mirror any repository at any time.
+
+In the event that git.communitycoins.org becomes unavailable,
+the project continues from existing mirrors.
+
+
