@@ -22,35 +22,31 @@ Main communitycoins/rooty website
 ➡ https://communitycoins.org
 
 Rooty ecosystem documents, narrative & branding  
-➡ https://git.communitycoins.org/rooty
+➡ [rooty](/rooty)
 
 ### 🔹 Communitycoins Core data
 Central repository of Core blockchain and environmental data  
-➡ https://git.communitycoins.org/ecoincore  
+➡ [ecoincore](/ecoincore)  
 ➡ https://ecoincoire.com
 
-### 🔹 Core Wallets  
-Core-Wallet implementations forked from the original repositories and ported to be supported by the latest unix version  
-➡ https://git.communitycoins.org/core-wallets  
+### 🔹 Core Wallets, docker-builds and the deploiment of images
+This is a collection of core-wallet repositories. These are not mirrors of their original but a fork of their original by the end of 2025. They serve to build and deploy their docker-image based on the latest Ubuntu version, currently 24.04.  
+➡ [core-wallets](/core-wallets)  
 
 ### 🔹 SPV / ROT Infrastructure  
 Indexers, Electrum servers, API layers, monitoring  
-➡ https://git.communitycoins.org/spv-infra
+➡ [Infrastructure](/spv-infra)
 
 ### 🔹 Light client / Communitycoins Multicoin Wallet
 PWA (Progressive Web App) 
 
 ### 🔹 Documentation & Governance  
 Manifestos, community docs, decentralisation frameworks  
-➡ https://git.communitycoins.org/docs-governance
-
-### 🔹 Coin-Specific Development  
-EFL, DEM, EMARK, and other CommunityCoins  
-➡ https://git.communitycoins.org/cc-coins
+➡ [Documentation & Governance](/docs-governance)  
 
 ### 🔹 Web & Visuals  
 Website, graphic identity, announcements  
-➡ https://git.communitycoins.org/web-visuals
+➡ [Visuals](/web-visuals)
 
 ---
 
