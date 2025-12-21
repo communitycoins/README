@@ -2,7 +2,7 @@
 # 
 # Format: tikker contact proxy 
 #   contact cc       endorses communitycoins and visa versa
-#   contact endorsed endorsed by communitycoins
+#   contact endorsed endorsed by communitycoins, waiting for endorsement
 #   contact foreign  not a communitycoin but valuable identity
 #   contact partner  respected contact
 #   contact zombi    waiting to be resurrected
