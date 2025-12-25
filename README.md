@@ -29,20 +29,21 @@ Central repository of Core blockchain and environmental data
 ➡ [ecoincore](/ecoincore)  
 ➡ https://ecoincoire.com
 
-### 🔹 Rings Of Trust
+### 🔹 Rings Of Trust / blockchain exposure
 
-These are core-wallet daemons enhanced with an SPV-service to expose individual communitycoin blockchains to mobile wallets. 
-The wallet sources are not mirrors of their original but forks by the end of 2025. They are packaged
+Corewallet daemons, Indexers, Electrum servers, API layers, monitoring, ...
 
+In this organisation core-wallet-daemons are collected, enhanced with an SPV-service, to expose individual communitycoin blockchains to mobile wallets. 
+The wallet sources are not mirrors of their original but forks by the end of 2025. They will be patched to follow the Ubuntu two-yearly update cycle, starting with ubuntu 24. Finally they will be merged with the Ring-of-Trust source into a docker-image to provide a reproducible, self-contained runtime.
 
-➡ [core-wallets](/Rings-Of-Trust)  
+While not a fully static binary, this offers stronger practical portability and reproducibility by freezing the entire execution environment rather than relying on host OS libraries. Tags + releases are maintained in Forgejo as truth and the builds will be pushed elsewhere later.
 
-### 🔹 SPV / ROT Infrastructure  
-Indexers, Electrum servers, API layers, monitoring  
-➡ [Infrastructure](/spv-infra)
+➡ [Rings-Of-Trust](/Rings-Of-Trust)  
 
 ### 🔹 Light client / Communitycoins Multicoin Wallet
 PWA (Progressive Web App) 
+
+➡ [Prototype](http://communitycoins.org/wallet_12)
 
 ### 🔹 Documentation & Governance  
 Manifestos, community docs, decentralisation frameworks  
