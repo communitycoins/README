@@ -29,9 +29,13 @@ Central repository of Core blockchain and environmental data
 ➡ [ecoincore](/ecoincore)  
 ➡ https://ecoincoire.com
 
-### 🔹 Core Wallets, docker-builds and the deploiment of images
-This is a collection of core-wallet repositories. These are not mirrors of their original but a fork of their original by the end of 2025. They serve to build and deploy their docker-image based on the latest Ubuntu version, currently 24.04.  
-➡ [core-wallets](/core-wallets)  
+### 🔹 Rings Of Trust
+
+These are core-wallet daemons enhanced with an SPV-service to expose individual communitycoin blockchains to mobile wallets. 
+The wallet sources are not mirrors of their original but forks by the end of 2025. They are packaged
+
+
+➡ [core-wallets](/Rings-Of-Trust)  
 
 ### 🔹 SPV / ROT Infrastructure  
 Indexers, Electrum servers, API layers, monitoring  
