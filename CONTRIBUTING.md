@@ -10,7 +10,7 @@ Since a software project is never finished Forgejo serves to maintain project-`i
 
 Forgejo also uses the name `project` which is confusing because a Forgejo-project is not a repository but a set of issues. So you cannot define a forgeo-project when there are no issues. A Forgejo `project` is a management board to collect and manage issues within an `organisation`.
 
-## Policiy
+## Policy
 
 Artifacts and container images are ephemeral by design.
 The source code, tags, and build instructions are the sole canonical record.
