@@ -22,7 +22,7 @@ Main communitycoins/rooty website
 ➡ https://communitycoins.org
 
 Rooty ecosystem documents, narrative & branding  
-➡ [rooty](/rooty)
+➡ [Communitycoins.Rooty](/Communitycoins.Rooty)
 
 ### 🔹 Communitycoins Core data
 Central repository of Core blockchain and environmental data  
