@@ -1,20 +1,36 @@
-# Revisions — Community Coins
+# Revisions — What are community coins
 
-Target document: canonical.md  
-Sequential reference: sequential.md  
-Current version: v0.1
+#1
+1 | We are not sure yet.
+::| We are not certain yet.
+@ai: more formal wording
 
----
+#2
+5 | Both definitions are the central part of Rooty, but currently the team is too small to declare “laws”.
+::| Both definitions are a central part of Rooty, but currently the team is too small to declare “laws”.
+@ai: grammatical correction
 
-## How to use this file
+#3
+9 | Each community has some form of governance, and through the separation of powers Montesquieu argued [1748] that a tripartite system [government, parliament, court] would bring an ideal balance of power to a community.
+::| Each community has some form of governance, and through the separation of powers, Montesquieu argued [1748] that a tripartite system [government, parliament, court] would bring an ideal balance of power to a community.
+@ai: missing comma
 
-- Do not edit `README.md` directly.
-- Add all proposals, objections, and remarks here.
-- Reference sentence numbers from `sequential.md`.
-- Maintainer approval is required for changes to enter the canonical text.
+#4
+11 | Access to money means power, and control of its supply is an ultimate power that could never be successfully balanced — until the arrival of cryptocurrencies.
+:::| Access to money means power, and control of its supply is an ultimate power that could never be successfully balanced—until the arrival of cryptocurrencies.
+@ai: typography (em dash spacing)
 
----
+#5
+13 | When money behaves properly, you can exchange available assets for available money and vice versa.
+:::| When money behaves properly, available assets can be exchanged for available money and vice versa.
+@ai: remove second-person phrasing
 
-## Revision index
+#6
+17 | This was the initial euphoria around Bitcoin, until a new phenomenon became obvious: everybody could initiate a new cryptocurrency to be mined by others and to be initially allocated as much as desired to specific purposes.
+:::| This was the initial euphoria around Bitcoin, until a new phenomenon became obvious: anyone could initiate a new cryptocurrency to be mined by others and initially allocated in any desired amount to specific purposes.
+@ai: improve flow and formality
 
-_No revisions proposed yet._
+#7
+18 | Another complication became apparent because the transaction capacity of a single cryptocurrency is limited to about one million transactions per day.
+:::| Another complication became apparent: the transaction capacity of a single cryptocurrency is limited to about one million transactions per day.
+@ai: clearer causal structure
