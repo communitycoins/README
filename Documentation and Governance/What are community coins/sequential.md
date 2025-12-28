@@ -1,5 +1,3 @@
-# Community Coins — Sequential Representation
-
 Version: v0.1  
 Derived from: canonical.md v0.1
 
