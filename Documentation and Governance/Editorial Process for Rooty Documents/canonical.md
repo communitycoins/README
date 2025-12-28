@@ -13,7 +13,19 @@ while preserving readability of the authoritative text.
 The process is designed to support discussion, dissent, and gradual refinement,
 without requiring premature formal governance structures.
 
----
+#### 1.1 Scope of application
+
+This editorial process applies exclusively to statements and documents
+that are explicitly endorsed by all participating CommunityCoin teams.
+
+Such documents represent shared positions of the CommunityCoins initiative
+and are intended for public presentation, including publication on
+the communitycoins.org website.
+
+Participation in the editorial process does not require direct use of
+the communitycoins platform.
+Endorsement may be expressed orally, in writing, or through other
+mutually accepted forms of communication.
 
 ### 2. Document roles
 
