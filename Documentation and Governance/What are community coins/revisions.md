@@ -8,7 +8,7 @@ Current version: v0.1
 
 ## How to use this file
 
-- Do not edit `canonical.md` directly.
+- Do not edit `README.md` directly.
 - Add all proposals, objections, and remarks here.
 - Reference sentence numbers from `sequential.md`.
 - Maintainer approval is required for changes to enter the canonical text.
