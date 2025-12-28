@@ -1,0 +1,37 @@
+# Multicoin communitycoins HD wallet (potential/wishlist) tikkers and proxies
+# 
+# Format: tikker contact proxy 
+#   contact cc       endorses communitycoins and visa versa
+#   contact endorsed endorsed by communitycoins, waiting for endorsement
+#   contact foreign  not a communitycoin but valuable identity
+#   contact partner  respected contact
+#   contact zombi    waiting to be resurrected
+#   proxy            attributes a proxy-server through URL
+#
+#
+-      partner  ...https://communitycoins.org/cc
+EFL    cc       ...https://egulden.org/cc
+#AUR   cc       ...https://auroracoin.is/cc
+#BOLI  cc       
+#CDN   cc       ...https://canadaecoin.ca/cc
+#CESC  cc       
+#DEM   cc       ...https://deutsche-emark.org/cc
+#PAK   cc       
+#FJC   endorsed 
+#KOBO  endorsed 
+#MAZA  endorsed
+#MONA  endorsed
+#RUBTC endorsed 
+#PTC   zombie
+#BCH   foreign
+#BLK   foreign
+#BRAZ  foreign
+#BTC   foreign
+#DGB   foreign
+#DOGE  foreign
+#GRS   foreign
+#IL8P  foreign
+#KMD   foreign
+#LBC   foreign
+#LTC   foreign
+#UNO   foreign

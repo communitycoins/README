@@ -22,23 +22,28 @@ Main communitycoins/rooty website
 ➡ https://communitycoins.org
 
 Rooty ecosystem documents, narrative & branding  
-➡ [rooty](/rooty)
+➡ [Communitycoins.Rooty](/Communitycoins.Rooty)
 
 ### 🔹 Communitycoins Core data
 Central repository of Core blockchain and environmental data  
 ➡ [ecoincore](/ecoincore)  
 ➡ https://ecoincoire.com
 
-### 🔹 Core Wallets, docker-builds and the deploiment of images
-This is a collection of core-wallet repositories. These are not mirrors of their original but a fork of their original by the end of 2025. They serve to build and deploy their docker-image based on the latest Ubuntu version, currently 24.04.  
-➡ [core-wallets](/core-wallets)  
+### 🔹 Rings Of Trust / blockchain exposure
 
-### 🔹 SPV / ROT Infrastructure  
-Indexers, Electrum servers, API layers, monitoring  
-➡ [Infrastructure](/spv-infra)
+Corewallet daemons, Indexers, Electrum servers, API layers, monitoring, ...
+
+In this organisation core-wallet-daemons are collected, enhanced with an SPV-service, to expose individual communitycoin blockchains to mobile wallets. 
+The wallet sources are not mirrors of their original but forks by the end of 2025. They will be patched to follow the Ubuntu two-yearly update cycle, starting with ubuntu 24. Finally they will be merged with the Ring-of-Trust source into a docker-image to provide a reproducible, self-contained runtime.
+
+While not a fully static binary, this offers stronger practical portability and reproducibility by freezing the entire execution environment rather than relying on host OS libraries. Tags + releases are maintained in Forgejo as truth and the builds will be pushed elsewhere later.
+
+➡ [Rings-Of-Trust](/Rings-Of-Trust)  
 
 ### 🔹 Light client / Communitycoins Multicoin Wallet
 PWA (Progressive Web App) 
+
+➡ [Prototype](http://communitycoins.org/wallet_12)
 
 ### 🔹 Documentation & Governance  
 Manifestos, community docs, decentralisation frameworks  
