@@ -1,5 +1,3 @@
-# Community Coins
-
 Version: v0.1  
 Status: Draft  
 Maintainer: Rooty Team
