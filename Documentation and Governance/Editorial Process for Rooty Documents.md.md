@@ -15,8 +15,8 @@ without requiring premature formal governance structures.
 
 #### 1.1 Scope of application
 
-This editorial process applies exclusively to statements and documents
-that are explicitly endorsed by all participating CommunityCoin teams.
+> ***This editorial process applies exclusively to statements and documents
+that are explicitly endorsed by all participating CommunityCoin teams.***
 
 Such documents represent shared positions of the CommunityCoins initiative
 and are intended for public presentation, including publication on
