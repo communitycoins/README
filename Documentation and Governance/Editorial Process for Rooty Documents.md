@@ -36,7 +36,16 @@ Each Rooty document consists one durectory and multiple representations
    ├─ README.md      — canonical document
    ├─ sequential.md  — sentence-indexed editorial reference
    └─ revisions      — proposed language and content changes
-```
+   ├─ history/
+   │  ├─ v0.1/
+   │  │  ├─ README.md
+   │  │  ├─ sequential
+   │  │  └─ revisions
+   │  └─ v0.2/
+   │     ├─ README.md
+   │     ├─ sequential
+   │     └─ revisions
+   └─ changelog```
 
 #### 2.1 README.md
 
