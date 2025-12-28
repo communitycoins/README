@@ -45,7 +45,8 @@ Each Rooty document consists one durectory and multiple representations
    │     ├─ README.md
    │     ├─ sequential
    │     └─ revisions
-   └─ changelog```
+   └─ changelog
+```
 
 #### 2.1 README.md
 
