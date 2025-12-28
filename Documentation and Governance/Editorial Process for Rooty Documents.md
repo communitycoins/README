@@ -29,21 +29,29 @@ mutually accepted forms of communication.
 
 ### 2. Document roles
 
-Each Rooty document consists of multiple representations,
-each serving a distinct purpose.
+Each Rooty document consists one durectory and multiple representations
+```
+/Documentation and Governance/
+└─ community-coins/
+   ├─ README.md      — canonical document
+   ├─ sequential.md  — sentence-indexed editorial reference
+   └─ revisions      — proposed language and content changes
+   ├─ history/
+   │  ├─ v0.1/
+   │  │  ├─ README.md
+   │  │  ├─ sequential
+   │  │  └─ revisions
+   │  └─ v0.2/
+   │     ├─ README.md
+   │     ├─ sequential
+   │     └─ revisions
+   └─ changelog
+```
 
-#### 2.1 Canonical document
+#### 2.1 README.md
 
 The canonical document is the authoritative version of the text.
-It represents the current accepted wording.
-
-Properties:
-- Clean prose
-- Paragraph-based structure
-- No editorial comments or suggestions
-- Updated only through explicit acceptance
-
-Readers should consider the canonical document as the current statement of intent.
+It represents the current accepted wording and the contents are directly visible when the user visits the directory
 
 ---
 
@@ -55,7 +63,6 @@ It exists solely to support precise reference and revision tracking.
 Properties:
 - One sentence per line
 - Stable sentence numbering
-- No semantic authority
 - Derived mechanically from the canonical document
 
 The sequential document is not intended for general readership.
@@ -64,45 +71,34 @@ The sequential document is not intended for general readership.
 
 #### 2.3 Revision ledger
 
+Each revision ledger should be accompanied by an issue. The `issue:issue id` is the first line in the ledger.
+That way the issue becomes:
+- Central place for discussion
+- Objections and consent don’t clutter the revision file
+- Maintainer can judge consensus quality, not vote counts
+
 The revision ledger records all proposed changes, objections, and motivations.
-It is the primary space for editorial discussion.
-
-Properties:
-- References sentences in the sequential document
-- Contains proposed wording, rationale, and status
-- Does not directly alter the canonical text
-
----
-
-### 3. Editorial actions
-
-#### 3.1 Proposing a revision
-
+It is the primary space for editorial discussion. 
 Any contributor may propose a revision by adding an entry to the revision ledger.
 
-Each revision entry must include:
-- Target document and version
-- Sentence number(s) in the sequential document
-- Original sentence(s)
-- Proposed alternative wording
-- Rationale for the proposal
-- Author and date
+structure for small changes:
+```#<revision-number>
+<sentence-number>:<original text>
+:::<proposed text>
+@<username>: <motivation>
+```
 
-Revisions may concern language, clarity, consistency, or structure.
-Interpretative or normative changes should be explicitly identified as such.
-
+structure for multi-line changes:
+```#<revision-number>
+<sentence-start-number>..<sentence-end-number>
+<original text>
+:::
+<proposed text>
+@<username>: <motivation>
+```
 ---
 
-#### 3.2 Discussion and objection
-
-Revisions may be discussed by adding remarks or objections to the same entry.
-Objections should focus on clarity, intent, or consequences of the proposed change.
-
-No revision is considered accepted by default.
-
----
-
-#### 3.3 Acceptance and rejection
+#### 2.4 Acceptance and rejection
 
 Acceptance or rejection of revisions is the responsibility of the maintainer.
 
