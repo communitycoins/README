@@ -1,1 +1,0 @@
-This is in index all Communitycoins and statements
