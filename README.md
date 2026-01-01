@@ -76,9 +76,9 @@ Public-facing progress & announcement planning
 ### Core Wallets
 - e-Gulden daemon → https://git.communitycoins.org/core-wallets/e-gulden  
 - cc-wallet (light wallet) → *(add link)*  
-- bitcoinjs-lib fork → *(add link)*  
+- [bitcoinjs-lib fork](https://git.communitycoins.org/Communitycoins.Rooty/bitcoinjs-lib.3.3.2-pos)  
 
-### Docs / Governance
+### Docs / Governance / README
 - Manifesto →   
 - Docs →   
 
@@ -109,8 +109,8 @@ Project-specific tasks live in the organisation boards.
 ## ⚙️ Technical Infrastructure
 
 ### Forgejo instance and external mirrors (Gitlab / Github)
-`https://git.communitycoins.org` — self-hosted, decentralised
-`https://gitlab.com/c4319` — Orginal collection
+`https://git.communitycoins.org` — [self-hosted, decentralised](https://git.communitycoins.org)
+`https://gitlab.com/c4319` — [Orginal collection](https://gitlab.com/c4319)
 
 ### CI (Forgejo Actions)  
 Workflows defined in ...:
