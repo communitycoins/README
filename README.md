@@ -43,7 +43,7 @@ While not a fully static binary, this offers stronger practical portability and 
 ### 🔹 Light client / Communitycoins Multicoin Wallet
 PWA (Progressive Web App) 
 
-➡ [Prototype](http://communitycoins.org/wallet_12)
+➡ [Prototype](https://communitycoins.org/wallet_12)
 
 ### 🔹 Documentation & Governance  
 Manifestos, community docs, decentralisation frameworks  
@@ -51,7 +51,7 @@ Manifestos, community docs, decentralisation frameworks
 
 ### 🔹 Web & Visuals  
 Website, graphic identity, announcements  
-➡ [Visuals](/web-visuals)
+➡ [Visuals](https://git.communitycoins.org/Communitycoins.Rooty/visuals)
 
 ---
 
@@ -67,7 +67,7 @@ Coordinates multi-repo release planning
 
 ### 💬 Communications & Outreach Board  
 Public-facing progress & announcement planning  
-➡ https://git.communitycoins.org/Communitycoins.Rooty/-/projects/6
+➡ [Communitycoins master texts](https://git.communitycoins.org/Communitycoins.Rooty/-/projects/6)
 
 ---
 
