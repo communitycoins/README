@@ -29,6 +29,10 @@ Because this requires hard-coding, the mirroring of documentation is not perfect
 > Mirrors (GitLab/GitHub) may be read-only and may lag behind.
 When creating a fork, all references need to be reworked.
 
+## Mirrors
+
+Since decentralization is the goal of the communitycoin initiative
+
 ## Policy
 
 Artifacts and container images are ephemeral by design.
