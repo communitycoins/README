@@ -15,7 +15,7 @@ Forgejo also uses the name project which is confusing because a Forgejo-project 
 
 ## internal links, a compromize
 
-Regretfully git-hubs are not perfect with regard to internal references. This counts for Forgeo, as well as Gitlan and github. A reference to a file looks like this:
+Regretfully git-hubs are not perfect with regard to internal references. This counts for Forgeo, as well as Gitlab and Github. A reference to a file looks like this:
 ```
 <url>/<organization>/<repo>/<git-internal>/<filename>
 url==https://git.communitycoins.org
