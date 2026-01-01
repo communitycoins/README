@@ -18,11 +18,17 @@ This page provides a **single-entry overview** of all organisations, repositorie
 
 Since the mission of every community coin is to serve a much larger community beyond the team and early adopters, we consider ourselves grassroots initiatives. For this reason, we’ve chosen the name ROOTY as a project identity—or rather, as a badge of honor for Communitycoins.
 
-Main communitycoins/rooty website  
-➡ https://communitycoins.org
-
 Rooty ecosystem documents, narrative & branding  
 ➡ [Communitycoins.Rooty](/Communitycoins.Rooty)
+
+Rooty Main Utilities
+➡ [README introduction, documents and governance](https://git.communitycoins.org/Communitycoins.Rooty/README)
+➡ [bitcoinjs-lib.3.3.2-pos](https://git.communitycoins.org/Communitycoins.Rooty/bitcoinjs-lib.3.3.2-pos)
+➡ [cc-electrum-monitor](https://git.communitycoins.org/Communitycoins.Rooty/cc-electrum-monitor)
+➡ [cc-index, collection of communitycoin identities](https://git.communitycoins.org/Communitycoins.Rooty/cc-index)
+➡ [communitycoins.org-website Main website sources](https://git.communitycoins.org/Communitycoins.Rooty/communitycoins.org_website)
+➡ [visuals, graphic identity](https://git.communitycoins.org/Communitycoins.Rooty/visuals)
+
 
 ### 🔹 Communitycoins Core data
 Central repository of Core blockchain and environmental data  
