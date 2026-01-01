@@ -23,8 +23,8 @@ Rooty ecosystem documents, narrative & branding
 
 Rooty Main Utilities  
 ➡ [README introduction, documents and governance](https://git.communitycoins.org/Communitycoins.Rooty/README)  
-➡ [bitcoinjs-lib.3.3.2-pos](https://git.communitycoins.org/Communitycoins.Rooty/bitcoinjs-lib.3.3.2-pos)  
-➡ [cc-electrum-monitor](https://git.communitycoins.org/Communitycoins.Rooty/cc-electrum-monitor)  
+➡ [bitcoinjs-lib.3.3.2-pos, Javascript bitcoin utility functions](https://git.communitycoins.org/Communitycoins.Rooty/bitcoinjs-lib.3.3.2-pos)  
+➡ [cc-electrum-monitor, find available and responsive electrum servers](https://git.communitycoins.org/Communitycoins.Rooty/cc-electrum-monitor)  
 ➡ [cc-index, collection of communitycoin identities](https://git.communitycoins.org/Communitycoins.Rooty/cc-index)  
 ➡ [communitycoins.org-website Main website sources](https://git.communitycoins.org/Communitycoins.Rooty/communitycoins.org_website)  
 ➡ [visuals, graphic identity](https://git.communitycoins.org/Communitycoins.Rooty/visuals)  
