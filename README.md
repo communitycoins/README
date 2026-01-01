@@ -59,15 +59,15 @@ Website, graphic identity, announcements
 
 ### ⭐ **CommunityCoins Master Board**  
 High-level governance & roadmap across ALL organisations  
-➡ https://git.communitycoins.org/communitycoins/projects
+➡ https://git.communitycoins.org/Communitycoins.Rooty/-/projects/2
 
 ### 📍 Release Roadmap  
 Coordinates multi-repo release planning  
-➡ *(link after you create it)*
+➡ https://git.communitycoins.org/Rings-Of-Trust/-/projects/5
 
 ### 💬 Communications & Outreach Board  
 Public-facing progress & announcement planning  
-➡ *(optional board)*
+➡ https://git.communitycoins.org/Communitycoins.Rooty/-/projects/6
 
 ---
 
