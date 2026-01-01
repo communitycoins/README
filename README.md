@@ -40,24 +40,17 @@ Central repository of Core blockchain and environmental data
 Corewallet daemons, Indexers, Electrum servers, API layers, monitoring, ...
 
 In this organisation core-wallet-daemons are collected, enhanced with an SPV-service, to expose individual communitycoin blockchains to mobile wallets. 
-The wallet sources are not mirrors of their original but forks by the end of 2025. They will be patched to follow the Ubuntu two-yearly update cycle, starting with ubuntu 24. Finally they will be merged with the Ring-of-Trust source into a docker-image to provide a reproducible, self-contained runtime.
+The wallet sources are not mirrors of their original but forks of their status by the end of 2025. They will be patched to follow the Ubuntu two-yearly update cycle, starting with ubuntu 24. Finally they will be merged with the Ring-of-Trust source into a docker-image to provide a reproducible, self-contained runtime.
 
 While not a fully static binary, this offers stronger practical portability and reproducibility by freezing the entire execution environment rather than relying on host OS libraries. Tags + releases are maintained in Forgejo as truth and the builds will be pushed elsewhere later.
 
 ➡ [Rings-Of-Trust](/Rings-Of-Trust)  
 
-### 🔹 Light client / Communitycoins Multicoin Wallet
-PWA (Progressive Web App) 
+### 🔹 Light client / Communitycoins Multicoin Wallet  
+➡ [Communitycoins-wallet PWA (Progressive Web App)](https://git.communitycoins.org/Multicoin-Wallets/cc-wallet)  
+➡ [Communitycoins Moonshine fork](https://git.communitycoins.org/Multicoin-Wallets/cdn-moonshine)  
 
-➡ [Prototype](https://communitycoins.org/wallet_12)
-
-### 🔹 Documentation & Governance  
-Manifestos, community docs, decentralisation frameworks  
-➡ [Documentation & Governance](Documentation%20and%20Governance)  
-
-### 🔹 Web & Visuals  
-Website, graphic identity, announcements  
-➡ [Visuals](https://git.communitycoins.org/Communitycoins.Rooty/visuals)
+➡ [Communitycoins-wallet Prototype](https://communitycoins.org/wallet_12)
 
 ---
 
@@ -101,9 +94,9 @@ Project-specific tasks live in the organisation boards.
 
 ## ⚙️ Technical Infrastructure
 
-### Forgejo instance and external mirrors (Gitlab / Github)
-`https://git.communitycoins.org` — [self-hosted, decentralised](https://git.communitycoins.org)
-`https://gitlab.com/c4319` — [Orginal collection](https://gitlab.com/c4319)
+### Forgejo instance and external mirrors (Gitlab / Github)  
+- `https://git.communitycoins.org` — [self-hosted, decentralised](https://git.communitycoins.org)  
+- `https://gitlab.com/c4319` — [Orginal collection](https://gitlab.com/c4319)  
 
 ### CI (Forgejo Actions)  
 Workflows defined in ...:
