@@ -77,19 +77,6 @@ Public-facing progress & announcement planning
 
 ---
 
-## 📦 Highlighted Repositories
-
-### Core Wallets
-- e-Gulden daemon → https://git.communitycoins.org/core-wallets/e-gulden  
-- cc-wallet (light wallet) → *(add link)*  
-- [bitcoinjs-lib fork](https://git.communitycoins.org/Communitycoins.Rooty/bitcoinjs-lib.3.3.2-pos)  
-
-### Docs / Governance / README
-- Manifesto →   
-- Docs →   
-
----
-
 ## 🧑‍💻 Developer Onboarding
 
 ### 1. Join the organisation  
