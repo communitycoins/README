@@ -21,7 +21,7 @@ Since the mission of every community coin is to serve a much larger community be
 Rooty ecosystem documents, narrative & branding  
 ➡ [Communitycoins.Rooty](/Communitycoins.Rooty)  
 
-Rooty Main Utilities
+Rooty Main Utilities  
 ➡ [README introduction, documents and governance](https://git.communitycoins.org/Communitycoins.Rooty/README)  
 ➡ [bitcoinjs-lib.3.3.2-pos](https://git.communitycoins.org/Communitycoins.Rooty/bitcoinjs-lib.3.3.2-pos)  
 ➡ [cc-electrum-monitor](https://git.communitycoins.org/Communitycoins.Rooty/cc-electrum-monitor)  
