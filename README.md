@@ -47,7 +47,7 @@ PWA (Progressive Web App)
 
 ### 🔹 Documentation & Governance  
 Manifestos, community docs, decentralisation frameworks  
-➡ [Documentation & Governance](/docs-governance)  
+➡ [Documentation & Governance](Documentation%20and%20Governance)  
 
 ### 🔹 Web & Visuals  
 Website, graphic identity, announcements  
