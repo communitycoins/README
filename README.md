@@ -1,3 +1,6 @@
+> **Canonical source:** https://git.communitycoins.org/Communitycoins.Rooty/README/_edit/main//README.md  
+> Mirrors (GitLab/GitHub) may be read-only and may lag behind.
+
 # 🌐 CommunityCoins — Developer Navigation Hub
 
 Welcome to **git.communitycoins.org**, the development hub for all CommunityCoins and Rooty software.
