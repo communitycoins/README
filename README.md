@@ -78,14 +78,9 @@ Public-facing progress & announcement planning
 - cc-wallet (light wallet) → *(add link)*  
 - bitcoinjs-lib fork → *(add link)*  
 
-### SPV Infra
-- cc-index → *(add link)*  
-- cc-electrum-monitor → *(add link)*  
-- electrumx → *(add link)*  
-
 ### Docs / Governance
-- Manifesto → *(add link)*  
-- Docs → *(add link)*  
+- Manifesto →   
+- Docs →   
 
 ---
 
@@ -105,7 +100,7 @@ Global planning goes via the **Master Board**.
 Project-specific tasks live in the organisation boards.
 
 ### 4. Coding Guidelines  
-- Open a PR early  
+- Open a PR/issue early  
 - Use feature branches  
 - CI must pass before merge  
 
@@ -115,6 +110,7 @@ Project-specific tasks live in the organisation boards.
 
 ### Forgejo instance and external mirrors (Gitlab / Github)
 `https://git.communitycoins.org` — self-hosted, decentralised
+`https://gitlab.com/c4319` — Orginal collection
 
 ### CI (Forgejo Actions)  
-Workflows defined in:
+Workflows defined in ...:
