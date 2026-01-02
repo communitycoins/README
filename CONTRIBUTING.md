@@ -7,7 +7,7 @@ This Communitycoins hub/library operates on [Forgejo](https://forgejo.org/), an 
 
 The main structure in Forgejo is an Organization. Organizations are not technically interconnected, but each contains a set of interconnected repositories. A repository is a hierarchical set of files, usually to bundle a software project. One special file (README.md) describes the purpose of the repository contents.
 
-Normaly there is no organization of Organizations and only maintainers can add organisations. For clarity we maintain a single  Organization named [Communitycoins](/Communitycoins). It contains one repository named [README](https://git.communitycoins.org/Communitycoins/README) to bundle directions for readers and those that want to contribute.
+Normaly there is no organization of Organizations and only maintainers can add organisations. For clarity we maintain a single Organization named [Communitycoins.Rooty](/Communitycoins) that contains active repositories. One repository named [README](https://git.communitycoins.org/Communitycoins/README) serves to bundle directions for readers and those that want to contribute. 
 
 Since a software project is never finished Forgejo serves to maintain project-issues, -branches, -tags and -releases. Before anything changes you need to tell us why. Your answer becomes an issue. Before you start to work on an issue or a set of issues you need to create a branch, which is a named copy of all the files in a repository. Once the issues that caused a branch are finished the changes can be 'pulled' back in the original through a pull request. That is the way a repository changes. After a change it is possible to define a tag. Through tags it is possible to rewind the project to a previous state or to declare a release.
 
