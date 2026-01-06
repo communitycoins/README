@@ -13,6 +13,19 @@ Since a software project is never finished Forgejo serves to maintain project-is
 
 Forgejo also uses the name project which is confusing because a Forgejo-project is not a repository but a set of issues. So you cannot define a forgeo-project when there are no issues. A Forgejo project is a management board to collect and manage issues within an organization.
 
+## Trust, with regard to executables or images provided:
+
+Our proposed baseline is "we don't need hub-hosted CI runners at all to provide deterministic builds"
+>CI proves that someone could build it once.
+>Reproducible builds prove that anyone can build it always. It suffices to supply the source code and the docker files. Supplying a docker-image is convenience only
+
+What ROOTY explicitly does not expect:
+- You do not need permission to contribute
+- You do not need to agree on everything
+- You do not need to give up autonomy
+- You do not need to “join” anything formally
+ROOTY is a coordination layer, not a command centre.
+
 ## internal links, a compromize
 
 Regretfully git-hubs are not perfect with regard to internal references. This counts for Forgeo, as well as Gitlab and Github. A reference to a file looks like this:
