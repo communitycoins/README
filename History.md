@@ -8,7 +8,7 @@ Originally created in 2021, a GitLab repository hub for CommunityCoins
 
 At the time, GitLab offered a convenient and accessible platform for collaboration. However, over the years it has become increasingly clear that long-term reliance on a single hosted platform introduces avoidable risks: platform lock-in, shifting policies, pricing changes, and potential external pressure.
 
-To address this, we have decided to make a fresh start with Forgejo, a Git environment that is:
+To address this, we have decided (2026) to make a fresh start with Forgejo, a Git environment that is:
 - Fully self-hostable,
 - Open source by design,
 - Easy to mirror, federate, and replicate by independent CommunityCoins teams,
