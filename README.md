@@ -21,7 +21,30 @@ This page provides a **single-entry overview** of all organisations, repositorie
 
 Since the mission of every community coin is to serve a much larger community beyond the team and early adopters, we consider ourselves grassroots initiatives. For this reason, we’ve chosen the name ROOTY as a project identity—or rather, as a badge of honor for Communitycoins.
 
-Rooty Main Utilities  
+#### Why Communitycoins Exists?
+Global financial systems optimise for scale, efficiency, and abstraction.
+Local communities optimise for resilience, trust, and continuity.
+These two logics are not the same. CommunityCoins start from a simple observation:
+> Resilient systems are diverse systems.  
+Economic diversity — including local denominations, local governance, and local decision-making — is not a weakness. It is a prerequisite for sustainability.
+
+CommunityCoins do not attempt to compete with global systems, such as Bitcoin or Fiat.
+They exists alongside them, where communities choose to organise value on their own terms.
+
+#### Why Rooty Exists? 
+
+Since rooty is an alliance, it is:  
+- a shared framework, not a single currency
+- a coordination layer, not a central authority
+- a practice of decentralisation, not a marketing concept
+- Each participating community coin remains autonomous, defines its own values and governance and operates its own infrastructure
+
+Through endorsements Rooty provides:  
+- shared principles
+- shared tooling where useful
+- shared visibility
+
+Rooty Current Main Utilities  
 ➡ [README introduction, documents, governance, narrative & branding](https://git.communitycoins.org/Communitycoins.Rooty/README)  
 ➡ [Ring-Of-Trust-service, SPV alternative for communitycoins](https://git.communitycoins.org/Communitycoins.Rooty/Ring-Of-Trust-service)  
 ➡ [bitcoinjs-lib.3.3.2-pos, Javascript bitcoin utility functions](https://git.communitycoins.org/Communitycoins.Rooty/bitcoinjs-lib.3.3.2-pos)  
