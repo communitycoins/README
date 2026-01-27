@@ -1,4 +1,4 @@
-***2026-01-27*** `bitwise` Push mirrors to both gitlab and github fail; Expired accesstokens?  
+***2026-01-27*** `bitwise` Push mirrors to both gitlab and github fail; Expired accesstokens?  (Issue#11)[https://git.communitycoins.org/Communitycoins.Rooty/README/issues/11]  
 ***2026-01-27*** `bitwise` 
 - Closed issue `Project member on-boarding#15` on `Rings-Of-Trust/e-gulden` because it belongs to repo `Communitycoins.Rooty/README`: https://git.communitycoins.org/Communitycoins.Rooty/README/issues/10  
 - Opened Issue#10 [Discover and document on-boarding process for new repo and project contributors.](https://git.communitycoins.org/Communitycoins.Rooty/README/issues/10)  
