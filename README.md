@@ -56,7 +56,7 @@ Rooty Current Main Utilities
 ### 🔹 Communitycoins Core data
 Central repository of Core blockchain and environmental data  
 ➡ [ecoincore](/ecoincore)  
-➡ https://ecoincoire.com
+➡ https://ecoincore.com
 
 ### 🔹 Rings Of Trust / blockchain exposure
 
